@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sunnypaxx
+- 💞️ Onegaishimasu ♡
+
 - 👀 I’m interested in arts, games, and Technologies
-- 🌱 I’m currently learning how to create bot for discord servers
-- 💞️ I’m looking to collaborate on earth
+- 🌱 I’m currently learning Python, discord bot, etc...
 - 📫 How to reach me suri.suriyapa@hotmail.com
 
 <!---
