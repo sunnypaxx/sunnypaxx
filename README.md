@@ -6,7 +6,7 @@
    
 </samp>
 
-  <img src="https://i.pinimg.com/originals/e7/40/5d/e7405da867df93aa62b6fca2b67d5da1.gif" width="200"/>
+  <img src="https://github.com/sunnypaxx/sunnypaxx/blob/main/assets/raise_the_sun.gif" width="200"/>
 
 </p>
 
@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" width="200"/>
+<img src="https://github.com/sunnypaxx/sunnypaxx/blob/main/assets/bornfire.gif" width="200"/>
 
 Current Project: <a href="null">Ring Bot for Discord.</a>
 
